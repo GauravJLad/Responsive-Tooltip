@@ -34,6 +34,8 @@ It displays tooltips in four directions — **top**, **bottom**, **left**, and *
 
 🔗 **GitHub Pages:**
 
+[https://gauravjlad.github.io/Responsive-Tooltip](https://gauravjlad.github.io/Responsive-Tooltip)
+
 ---
 
 ## 📧 Let’s Connect
